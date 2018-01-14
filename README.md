@@ -1,5 +1,5 @@
 # Enteric glial activation
-I have been interested in visualising time series data in a more interactive manner. 
+I have been interested in visualising time series data from biological experiments in a more interactive manner. 
 Plotly has some great tools, so I have used time series data from calcium imaging on gut tissue. 
 
 I used FIJI to pull the numbers out to generate raw traces:
