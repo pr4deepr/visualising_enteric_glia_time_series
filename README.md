@@ -2,6 +2,9 @@
 I have been interested in visualising time series data from biological experiments in a more interactive manner. 
 Plotly has some great tools, so I have used time series data from calcium imaging on gut tissue. 
 
+The gut has its own nervous system which is comprised of enteric neurons and enteric glial cells.
+I am interested in studying the activity of enteric glial cells which are similar to astrocytes in the brain. For more info, checkout this [ebook](https://physiology.natsci.msu.edu/_physiology/assets/File/Downloadable_Documents/EntericGlia-eBook.pdf)
+
 I used FIJI to pull the numbers out to generate raw traces:
 
 ![RAW TRACE](/Raw%20Traces.jpg)
