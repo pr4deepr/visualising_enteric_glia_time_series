@@ -11,7 +11,7 @@ I used IgorPro to analyze the traces. Specifically, I used a script known as [Ta
 After calcium imaging, we immunostain the tissue to identify the cells of interest. In this case, the green cells in the graph below. Not all the cells are in focus, so only those with a white overlay are the ones analyzed. The red dots indicate the responsive cells, which appears at the peak onset times extracted using IgorPro.
 Purple indicates GFAP immunostaining (expressed by some glial cells) and blue is DAPI (nuclear marker: all cells)
 
-Interactive graph:
+Using plotly, I generated an interactive graph that can be viewed [here](https://plot.ly/~pradeepr/257.embed).
 
 ![Interactive Graph](/EGC_interactive.gif)
 
