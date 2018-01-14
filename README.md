@@ -19,6 +19,6 @@ Using plotly, I generated an interactive graph that can be viewed [here](https:/
 
 ## Comments
 
-*The reason I used IgorPro is because many of the traces have artefacts that appear as peaks. This is because gut tissue has smooth muscle causing movements during imaging. I have to manually go through the traces and verify the peaks using the image stacks which takes a while :).*
+*The reason I used IgorPro is because many of the traces have artefacts that appear as peaks. This is because gut tissue has smooth muscle that leads to movements during imaging. I have to manually go through the traces and verify the peaks using the image stacks which takes a while :).*
 
 *Will include the code soon*
