@@ -19,6 +19,7 @@ Using plotly, I generated an interactive graph that can be viewed [here](https:/
 
 ![Interactive Graph](/EGC_interactive.gif)
 
+You can view the Jupyter notebook [here](https://nbviewer.jupyter.org/github/pr4deepr/visualising_enteric_glia_time_series/blob/master/Calcium_imaging_plotly.ipynb)
 
 ## Comments
 
